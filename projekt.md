@@ -4,7 +4,15 @@
 ## Your pocket-friendly Personal Trainer
 ### En Discord-bot skapad av Calle, Fred & Robin
 
-## ---------------------------------------------
+
+
+
+## Ursprunglig guide för Discord-bot
+### https://www.youtube.com/watch?v=UYJDKSah-Ww
+
+## Flöde
+![C:\Users\Robin%Andersson\Desktop\Gymbro.jpg](https://cdn.discordapp.com/attachments/1242778398510546955/1247158779196211210/Draft_1.jpg?ex=665f02a0&is=665db120&hm=03b913ba7eeb0dd79be9ec012c3997eab3a0f432b84cb911672152c7d42628fb&)
+
 
 ## Importerar moduluerna OS, Discord & Datetime
 ```python 
